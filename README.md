@@ -32,10 +32,3 @@ Use o código com cuidado.Opção 2: Modelo Moderno com Badges e GráficosVisual
 | **Banco de Dados**| ![PostgreSQL](https://shields.io) |
 
 ---
-
-### 📈 Meu Progresso no GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
--->
