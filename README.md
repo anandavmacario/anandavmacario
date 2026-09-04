@@ -16,9 +16,6 @@ Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai.
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://vercel.app)
+![Estatísticas do GitHub](https://github.com/anandavmacario)
 
-<p align="left">
-  <a href="nanda10vm@gmail.com"><img src="https://shields.io" target="_blank"></a>
-</p>
 
