@@ -16,6 +16,6 @@ Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai.
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://vercel.anandavmacario)
+![Estatísticas de anandavmacario](https://vercel.app)
 
 
