@@ -3,7 +3,8 @@
 ### Sobre mim
 Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai. 
 
-- 🔭 Atualmente trabalhando em: [Desenvolvimento de Back-end] (https://github.com/anandavmacario/desenvolvimento-back-end.git)
+- 🔭 Atualmente trabalhando em: [![GitHub Project](https://shields.io)]( https://anandavmacario.github.io/desenvolvimento-back-end/
+)
 - 🌱 Aprendendo no momento: Linguagem de marcação e Back-end.
 - ✉️ Como me encontrar: ananda.macario@edu.senai.br
  
