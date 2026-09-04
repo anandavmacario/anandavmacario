@@ -1,16 +1,16 @@
 ## Seja bem-vindo(a) ao meu perfil👋
 
-### 🚀 Sobre mim
-Desenvolvedor(a) focado em criar soluções eficientes e com código limpo. Atualmente estudando novas tecnologias e aberto(a) a conexões profissionais.
+### Sobre mim
+Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai. 
 
-- 🔭 Atualmente trabalhando em: [Nome do Projeto]
+- 🔭 Atualmente trabalhando em: []
 - 🌱 Aprendendo no momento: Linguagem de marcação e Back-end.
 - ✉️ Como me encontrar: ananda.macario@edu.senai.br
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-`JavaScript` `TypeScript` `React` `Node.js` `Git` `Docker`
+`Python` `Git` `Html` `CSS`
 
 ---
 
