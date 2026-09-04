@@ -1,16 +1,41 @@
-## Hi there 👋
+## Seja bem-vindo(a) ao meu perfil👋
 
-<!--
-**anandavmacario/anandavmacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+Desenvolvedor(a) focado em criar soluções eficientes e com código limpo. Atualmente estudando novas tecnologias e aberto(a) a conexões profissionais.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em: [Nome do Projeto]
+- 🌱 Aprendendo no momento: Linguagem de marcação e Back-end.
+- ✉️ Como me encontrar: ananda.macario@edu.senai.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ Tecnologias e Ferramentas
+`JavaScript` `TypeScript` `React` `Node.js` `Git` `Docker`
+
+---
+
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://vercel.app)
+Use o código com cuidado.Opção 2: Modelo Moderno com Badges e GráficosVisualmente rico, ideal para quem quer destacar o design do perfil.markdown# ✨ Bem-vindo ao meu perfil!
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="mailto:seu-email@email.com"><img src="https://shields.io" target="_blank"></a>
+</p>
+
+### 💻 Meu Stack de Tecnologia
+
+| Categoria | Tecnologias |
+| --- | --- |
+| **Front-end** | ![React](https://shields.io) ![CSS3](https://shields.io) |
+| **Back-end** | ![NodeJS](https://shields.io) ![Python](https://shields.io) |
+| **Banco de Dados**| ![PostgreSQL](https://shields.io) |
+
+---
+
+### 📈 Meu Progresso no GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 -->
