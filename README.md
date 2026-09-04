@@ -14,12 +14,4 @@ Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai.
 `Python` `Git` `Html` `CSS`
 
 ---
-### 💻 Minha Stack de Tecnologias
-
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Git" />
-</p>
 
