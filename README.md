@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) ao meu perfil👋
+## Seja bem-vindo(a) ao meu perfil!
 
 ### Sobre mim
 Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai. 
@@ -17,19 +17,8 @@ Estudante do segundo semestre de Desenvolvimento de Sistemas no Senai.
 
 ### 📊 Estatísticas
 ![Estatísticas do GitHub](https://vercel.app)
-Use o código com cuidado.Opção 2: Modelo Moderno com Badges e GráficosVisualmente rico, ideal para quem quer destacar o design do perfil.markdown# ✨ Bem-vindo ao meu perfil!
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-  <a href="mailto:seu-email@email.com"><img src="https://shields.io" target="_blank"></a>
+  <a href="nanda10vm@gmail.com"><img src="https://shields.io" target="_blank"></a>
 </p>
 
-### 💻 Meu Stack de Tecnologia
-
-| Categoria | Tecnologias |
-| --- | --- |
-| **Front-end** | ![React](https://shields.io) ![CSS3](https://shields.io) |
-| **Back-end** | ![NodeJS](https://shields.io) ![Python](https://shields.io) |
-| **Banco de Dados**| ![PostgreSQL](https://shields.io) |
-
----
